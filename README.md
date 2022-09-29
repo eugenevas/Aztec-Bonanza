@@ -1,3 +1,3 @@
 # Aztec-Bonanza
-#SpriteKit
+# SpriteKit
 Simple tetris game in Aztec style
