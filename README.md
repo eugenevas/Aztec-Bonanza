@@ -1,5 +1,5 @@
 # Aztec-Bonanza
-Using SpriteKit. Using GestureReconizer.
+Using SpriteKit, UIGestureReconizer.
 Simple tetris game in Aztec style
 
 
